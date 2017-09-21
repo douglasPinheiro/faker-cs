@@ -10,7 +10,7 @@ Get the code via git:
 
     git clone git://github.com/slashdotdash/faker-cs.git
 
-Supported versiom:
+Supported versions:
 
 	.NET framework 3.5 SP1,
 	.NET framework 4.0,
